@@ -40,3 +40,5 @@ public class Demo {
 }
 
 // This line is being writtem to check if we can correctly push our code into Giuthub
+
+// This line is to if we only need to commit or also push master
